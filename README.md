@@ -1,5 +1,3 @@
-# README for Maze Solver
-
 ## Overview
 
 This Python script solves a maze problem using depth-first search (DFS). It reads a maze from a text file, finds the shortest path from the start ('A') to the goal ('B'), and outputs both a textual and image representation of the solution.
